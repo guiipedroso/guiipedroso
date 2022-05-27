@@ -1,4 +1,4 @@
-## Hello, i'm Guilherme Pedroso
+## Hello, i'm Guilherme Pedroso, Computer Engineering student, linux user and researcher
 
 
 
