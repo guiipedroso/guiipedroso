@@ -11,7 +11,7 @@
 
 - 🔎 <samp>Bug Hunter at **HackerOne**</samp>
  
-- 💻 <samp>Computer Engineering student, linux user and researcher</samp>
+- 💻 <samp>I love to develop intelligent automations and tools to improve the quality of life for humans!</samp>
 
   <br>
 
