@@ -1,19 +1,21 @@
 ## Hello, i'm Guilherme Pedroso, Computer Engineering student, linux user and researcher
-
+<br>
 <br>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?size=25&duration=4200&color=1BC53B&height=50&lines=echo+%22Ol%C3%A1%2C+mundo!%22&center=true" alt="Typing" />
 </p>
 
+  <h2 align="center"><samp>- Languages, Knowledge & Statistics:</samp></h2> 
+
 <div align="center">
   <a href="https://github.com/guiipedroso">
   <img height="215em" src="https://github-readme-stats.vercel.app/api?username=guiipedroso&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-   <br>
+    <br>
   <img align="center" height="215em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiipedroso&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
  
-  <div align="center" style="display: inline_block"><br>
-  
+  <div align="center" style="display: inline_block"><br> 
+    
   <img align="center" alt="Gui-JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="Gui-Postgresql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
 
@@ -30,7 +32,9 @@
 
 </div>
 
-## 
+<br>
+
+<h2 align="center"><samp>- Contacts & Other Stuff:</samp></h2>
 
 <div align="center"> 
   <a href="https://www.youtube.com/channel/UCNnwofpzHbIsZpgqB3r-KCA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
