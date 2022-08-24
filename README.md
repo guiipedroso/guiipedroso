@@ -1,4 +1,4 @@
-## Hello, i'm Guilherme Pedroso, Computer Engineering student, linux user and researcher
+##   Hello, I'm Guilherme Pedroso - @guiipedroso 👋
 <br>
 <br>
 <p align="center">
@@ -11,7 +11,7 @@
 
 - 🔎 <samp>Bug Hunter at **HackerOne**</samp>
  
-- 💻 <samp>I love doing shell/bash script automated reconnaissance tools for my bug hunting activities!</samp>
+- 💻 <samp>Computer Engineering student, linux user and researcher</samp>
 
   <br>
 
