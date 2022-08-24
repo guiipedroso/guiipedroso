@@ -38,4 +38,19 @@
  
   ![Snake animation](https://github.com/guiipedroso/guiipedroso/blob/output/github-contribution-grid-snake.svg)
  
+ <!-- Profile View Counter -->
+
+<!--
+Fazendo request em loop no BASH pro contador hehehe >:D
+for i in {1..1337}; do curl -sk "https://profile-counter.glitch.me/guiipedroso/count.svg"; done
+-->
+
+<h4 align="center"><samp>Profile View Counter:</samp></h4>
+
+<p align="center">
+  <a href="http://www.pudim.com.br/">
+    <img align="center" src="https://profile-counter.glitch.me/guiipedroso/count.svg" title="Totally not me refreshing the page to get 'views' >:D"/>
+  </a>
+</p>
+
 </div>
