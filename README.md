@@ -1,11 +1,15 @@
 ## Hello, i'm Guilherme Pedroso, Computer Engineering student, linux user and researcher
 
-
+<br>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?size=25&duration=4200&color=1BC53B&height=50&lines=echo+%22Ol%C3%A1%2C+mundo!%22&center=true" alt="Typing" />
+</p>
 
 <div align="center">
   <a href="https://github.com/guiipedroso">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guiipedroso&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
    <br>
+    <br>
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiipedroso&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
  
