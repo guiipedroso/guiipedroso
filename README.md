@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?size=25&duration=4200&color=1BC53B&height=50&lines=echo+%22Ol%C3%A1%2C+mundo!%22&center=true" alt="Typing" />
 </p>
 
-- 👨‍💻 <samp>I'm a **22 year old man** from **Brazil** 🇧🇷</samp>
+- 👨‍💻 <samp>I'm a **23 year old man** from **Brazil** 🇧🇷</samp>
 
 - 📚 <samp> Nowadays studying **Artificial Intelligence**, focusing on **Neural Network**</samp>
 
