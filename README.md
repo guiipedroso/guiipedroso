@@ -69,7 +69,7 @@
 
 <p align="center">
   <a href="http://www.pudim.com.br/">
-    <img align="center" src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fguiipedroso&amp;label=Profile%20views&amp;icon=github&amp;color=%231BC53B" alt="Totally not me refreshing the page to get 'views' >:D" title="Totally not me refreshing the page to get 'views' >:D"/>
+    <img align="center" src="https://hits.sh/github.com/guiipedroso.svg?style=flat&amp;label=Profile%20views&amp;color=1BC53B" alt="Totally not me refreshing the page to get 'views' >:D" title="Totally not me refreshing the page to get 'views' >:D"/>
   </a>
 </p>
 
