@@ -19,9 +19,9 @@
 
 <div align="center">
   <a href="https://github.com/guiipedroso">
-  <img height="215em" src="https://github-readme-stats.vercel.app/api?username=guiipedroso&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true" alt="Guilherme's GitHub stats"/>
-    <br>
-  <img align="center" height="215em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiipedroso&layout=compact&langs_count=7&theme=chartreuse-dark" alt="Top languages"/>
+    <img height="180" src="https://github-readme-stats.shion.dev/api?username=guiipedroso&amp;show_icons=true&amp;theme=chartreuse-dark&amp;include_all_commits=true&amp;count_private=true" alt="Guilherme's GitHub stats"/>
+  </a>
+  <img height="180" src="https://github-readme-stats.shion.dev/api/top-langs/?username=guiipedroso&amp;layout=compact&amp;langs_count=7&amp;theme=chartreuse-dark" alt="Top languages"/>
 </div>
  
   <div align="center" style="display: inline_block"><br> 
@@ -69,7 +69,7 @@
 
 <p align="center">
   <a href="http://www.pudim.com.br/">
-    <img align="center" src="https://komarev.com/ghpvc/?username=guiipedroso&label=Profile%20views&color=1BC53B&style=flat" alt="Totally not me refreshing the page to get 'views' >:D" title="Totally not me refreshing the page to get 'views' >:D"/>
+    <img align="center" src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fguiipedroso&amp;label=Profile%20views&amp;icon=github&amp;color=%231BC53B" alt="Totally not me refreshing the page to get 'views' >:D" title="Totally not me refreshing the page to get 'views' >:D"/>
   </a>
 </p>
 
