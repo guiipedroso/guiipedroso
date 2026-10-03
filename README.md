@@ -19,9 +19,9 @@
 
 <div align="center">
   <a href="https://github.com/guiipedroso">
-  <img height="215em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=guiipedroso&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img height="215em" src="https://github-readme-stats.vercel.app/api?username=guiipedroso&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true" alt="Guilherme's GitHub stats"/>
     <br>
-  <img align="center" height="215em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=guiipedroso&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+  <img align="center" height="215em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiipedroso&layout=compact&langs_count=7&theme=chartreuse-dark" alt="Top languages"/>
 </div>
  
   <div align="center" style="display: inline_block"><br> 
@@ -36,8 +36,8 @@
   <img align="center" alt="Gui-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Gui-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="Gui-Cpp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="Gui-Cpp" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/opencv/opencv-original.svg">
-  <img align="center" alt="Gui-Cpp" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/qt/qt-original.svg">
+  <img align="center" alt="Gui-OpenCV" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg">
+  <img align="center" alt="Gui-Qt" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg">
 </div>
 
 </div>
@@ -65,16 +65,11 @@
  
  <!-- Profile View Counter -->
 
-<!--
-Fazendo request em loop no BASH pro contador hehehe >:D
-for i in {1..1337}; do curl -sk "https://profile-counter.glitch.me/guiipedroso/count.svg"; done
--->
-
 <h4 align="center"><samp>Profile View Counter:</samp></h4>
 
 <p align="center">
   <a href="http://www.pudim.com.br/">
-    <img align="center" src="https://profile-counter.glitch.me/guiipedroso/count.svg" title="Totally not me refreshing the page to get 'views' >:D"/>
+    <img align="center" src="https://komarev.com/ghpvc/?username=guiipedroso&label=Profile%20views&color=1BC53B&style=flat" alt="Totally not me refreshing the page to get 'views' >:D" title="Totally not me refreshing the page to get 'views' >:D"/>
   </a>
 </p>
 
